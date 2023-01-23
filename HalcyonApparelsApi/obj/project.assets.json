@@ -4735,11 +4735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsApi\\HalcyonApparelsApi.csproj",
+      "projectUniqueName": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsApi\\HalcyonApparelsApi.csproj",
       "projectName": "HalcyonApparelsApi",
-      "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsApi\\HalcyonApparelsApi.csproj",
+      "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsApi\\HalcyonApparelsApi.csproj",
       "packagesPath": "C:\\Users\\dsooraj\\.nuget\\packages\\",
-      "outputPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsApi\\obj\\",
+      "outputPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dsooraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4756,11 +4756,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj": {
-              "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj"
+            "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj": {
+              "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsApplication\\HalcyonApparelsApplication.csproj"
             },
-            "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsInfrastructure\\HalcyonApparelsInfrastructure.csproj": {
-              "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsInfrastructure\\HalcyonApparelsInfrastructure.csproj"
+            "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsInfrastructure\\HalcyonApparelsInfrastructure.csproj": {
+              "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsInfrastructure\\HalcyonApparelsInfrastructure.csproj"
             }
           }
         }

@@ -10427,11 +10427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsMVC\\HalcyonApparelsMVC.csproj",
+      "projectUniqueName": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsMVC\\HalcyonApparelsMVC.csproj",
       "projectName": "HalcyonApparelsMVC",
-      "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsMVC\\HalcyonApparelsMVC.csproj",
+      "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsMVC\\HalcyonApparelsMVC.csproj",
       "packagesPath": "C:\\Users\\dsooraj\\.nuget\\packages\\",
-      "outputPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsMVC\\obj\\",
+      "outputPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dsooraj\\AppData\\Roaming\\NuGet\\NuGet.Config",

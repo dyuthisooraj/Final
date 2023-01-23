@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj": {}
+    "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj": {}
   },
   "projects": {
-    "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj": {
+    "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj",
+        "projectUniqueName": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj",
         "projectName": "HalcyonApparelsDomain",
-        "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj",
+        "projectPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsDomain\\HalcyonApparelsDomain.csproj",
         "packagesPath": "C:\\Users\\dsooraj\\.nuget\\packages\\",
-        "outputPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\HalcyonApparelsDomain\\obj\\",
+        "outputPath": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dsooraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
