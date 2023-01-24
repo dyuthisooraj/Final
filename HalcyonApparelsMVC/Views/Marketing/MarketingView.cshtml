@@ -1,11 +1,16 @@
 ﻿@model HalcyonApparelsMVC.DTO.MapDTO
 @{
-    ViewData["Title"] = "MarketingView";
+    ViewData["Title"] = "Marketing";
     var aclist = ViewBag.acclist as List<string>;
 }
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
-<h3 style="color: black; margin-top:15px; margin-bottom:35px;">Marketing</h3>
+
+
+<h3 style="color: black; margin-top:15px; margin-bottom:35px; font-family: 'Roboto', sans-serif;">Marketing</h3>
 
 <div class="wrap">
     <form asp-action="MarketingView" method="post">
@@ -14,7 +19,7 @@
     </select>
         <select name="productType" asp-for="productType" asp-items="new SelectList(ViewBag.ptypelist)">
     </select>
-    <div style="margin-top:15px;">
+    <div style="margin-top:25px;">
 
     <input type="submit" value="Submit" class="btn btn-primary" data-inline="true" />
     </div>

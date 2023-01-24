@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bF+CTNNhPgDRQMLF7pFcwe6hb7vywiP7m0kvLbTobwQ=",
+  "Hash": "qOMag8OZeyHbzXQJC+BInz7i+2zK+9IvOV4aEgfx7Nw=",
   "Source": "HalcyonApparelsMVC",
   "BasePath": "_content/HalcyonApparelsMVC",
   "Mode": "Default",
@@ -2327,6 +2327,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\photos\\ca7a3b50-d54d-4196-87dc-965efaa8ab0c_3.png"
+    },
+    {
+      "Identity": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsMVC\\wwwroot\\photos\\cbc003af-b125-471c-a049-b50220f44a95_fasttrack2.jpg",
+      "SourceId": "HalcyonApparelsMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsMVC\\wwwroot\\",
+      "BasePath": "_content/HalcyonApparelsMVC",
+      "RelativePath": "photos/cbc003af-b125-471c-a049-b50220f44a95_fasttrack2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\cbc003af-b125-471c-a049-b50220f44a95_fasttrack2.jpg"
     },
     {
       "Identity": "D:\\saturdayfinal210123\\emaillatest\\monday\\mondayfinaldeploy\\HalcyonApparelsMVC\\wwwroot\\photos\\d2bf14d6-144c-44d9-9ed3-6f0c659583e6_1.png",

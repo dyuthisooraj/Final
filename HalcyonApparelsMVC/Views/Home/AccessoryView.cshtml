@@ -2,15 +2,20 @@
 
 
 @{
-    ViewData["Title"] = "AccessoryView";
+    ViewData["Title"] = "Accessory";
 }
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+
 
 <link rel="stylesheet" href="~/css/serial.css" />
 <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
 
 
-<h3 style="color: black; margin-top:15px; margin-bottom:25px;">Accessories</h3>
+<h3 style="color: black; margin-top:15px; margin-bottom:25px; font-family: 'Roboto', sans-serif;">Accessories</h3>
 
 @if (TempData["AlertMessage"] != null)
 {

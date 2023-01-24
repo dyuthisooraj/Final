@@ -10,12 +10,12 @@ namespace HalcyonApparelsMVC.Models
 
         //[Required(ErrorMessage = "Username is required")]
         [Column(TypeName = "varchar")]
-        [StringLength(50, ErrorMessage = "Must contain atleast {2} characters.", MinimumLength = 3)]
+        [StringLength(50, ErrorMessage = "Must contain atleast {2} characters", MinimumLength = 3)]
         public string? UserName { get; set; }
 
         //[Required(ErrorMessage = "Please Enter Password")]
         [Column(TypeName = "varchar")]
-        [StringLength(10, ErrorMessage = "Must contain atleast {2} characters.", MinimumLength = 6)]
+        [StringLength(10, ErrorMessage = "Must contain atleast {2} characters", MinimumLength = 6)]
         [DataType(DataType.Password)]
 
         public string? Password { get; set; }
